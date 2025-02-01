@@ -105,7 +105,7 @@ Rebalancing logic in `triangular_arbitrage.py`:
 - Expand asset rebalancing to include dynamic risk scoring.
 
 ## License
-This project is licensed under the MIT License. See `LICENSE` for details.
+This project is licensed under the GNU GPLv3 License. See `LICENSE` for details.
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue to suggest changes or report bugs.
