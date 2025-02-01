@@ -17,7 +17,7 @@ The Stellar High-Frequency Trading (HFT) Bot is a modular and dynamic applicatio
 ├── agr_idx_assets.py        # Creates asset snapshots and index values.
 ├── arbitrage_utils.py       # Utility functions for fetching exchange rates, order books, and validating reserves.
 ├── config.ini               # Configuration file for customizable parameters.
-├── excel_logger.py          # Logs arbitrage opportunities and results into Excel.
+├── ods_logger.py            # Logs arbitrage opportunities and results into LibreOffice ODS file.
 ├── main.py                  # Entry point for the bot, manages the workflow and transaction queue.
 ├── trade_assetlist.py       # Contains the list of tradable assets with their configurations.
 ├── triangular_arbitrage.py  # Core logic for finding and executing triangular arbitrage.
