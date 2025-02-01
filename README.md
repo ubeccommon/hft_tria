@@ -1,7 +1,7 @@
 # Stellar High-Frequency Trading (HFT) Triangular Arbitrage  Bot
 
 ## Overview
-The Stellar High-Frequency Trading (HFT) Bot is a modular and dynamic application designed to execute a **strict triangular arbitrage strategy** on the Stellar network. The bot identifies profitable arbitrage paths among multiple asset pairs, ensures reserve requirements are met, and executes trades efficiently while handling market conditions and liquidity constraints in real-time.
+The Stellar High-Frequency Trading (HFT) Triangular Arbitrage Bot is a modular and dynamic application designed to execute a **strict triangular arbitrage strategy** on the Stellar network. The bot identifies profitable arbitrage paths among multiple asset pairs, ensures reserve requirements are met, and executes trades efficiently while handling market conditions and liquidity constraints in real-time.
 
 ## Features
 - **Triangular Arbitrage**: Identifies and executes profitable arbitrage opportunities across three asset pairs.
